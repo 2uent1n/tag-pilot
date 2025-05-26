@@ -1,0 +1,10 @@
+{
+	"id": "tag-pilot",
+	"name": "Tag Pilot",
+	"version": "1.0.1",
+	"minAppVersion": "1.0.0",
+	"description": "Tag your notes methodically.",
+	"author": "2uent1n",
+	"authorUrl": "https://github.com/2uent1n",
+	"isDesktopOnly": true
+}
